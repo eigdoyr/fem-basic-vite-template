@@ -1,0 +1,23 @@
+![Design preview for the QR code component coding challenge](./src/assets/preview.png)
+
+## Layout
+
+The designs were created to the following widths:
+
+- Desktop: 1440px
+- Mobile: 375px
+
+## Links
+
+- Solution URL: [https://github.com/eigdoyr/profile-card](https://github.com/eigdoyr/product-preview-card)
+- Live Site URL: [https://eigdoyr-profile-card.netlify.com](https://eigdoyr-product-preview-card.netlify.com)
+
+## Built with
+
+- [Vue](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
